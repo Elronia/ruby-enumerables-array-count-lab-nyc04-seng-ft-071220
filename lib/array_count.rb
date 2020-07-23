@@ -4,7 +4,6 @@ def count_strings(array)
     element
     if element.is_a String?
   end
-  count_strings(array)
 end
 
 # def count_empty_strings(array)
